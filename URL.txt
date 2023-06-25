@@ -1,0 +1,7 @@
+https://qiita.com/yutapuu/questions/5dba7122f8c63432d975
+https://www.simpletraveler.jp/2022/07/14/azure-cognitive-service-computer-vision%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E4%B8%80%E7%9E%AC%E3%81%A7ocr%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E4%BD%9C/
+
+
+https://learn.microsoft.com/ja-jp/azure/cognitive-services/authentication?tabs=powershell
+
+https://labs.enrapt.jp/2023/04/07/761/
